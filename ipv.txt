@@ -1,9 +1,9 @@
-央视4K,#genre#
+央视4K8K,#genre#
 CCTV1 4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-央视4K,#genre#
+央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
 CCTV2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
 CCTV3,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
@@ -37,7 +37,7 @@ CCTV女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CETV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
 CETV4,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
 CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-卫视IPV6,#genre#
+卫视频道,#genre#
 湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
 浙江卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
 江苏卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
@@ -87,7 +87,7 @@ CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/ind
 CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-港澳台,#genre#
+港澳台频道,#genre#
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -172,7 +172,7 @@ CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 HTB新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
 KBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 关西新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-陕西本地,#genre#
+本地频道,#genre#
 临潼综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002790/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 阎良综合,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 杨凌综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002776/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
