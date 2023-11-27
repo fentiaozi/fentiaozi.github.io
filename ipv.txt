@@ -138,6 +138,7 @@ DW 新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 UFC格斗,https://yang-1989.eu.org/live/huya/880223
 斯诺克-1,https://yang-1989.eu.org/live/huya/880214
 斯诺克-2,https://yang-1989.eu.org/live/huya/880625
+
 本地频道,#genre#
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
