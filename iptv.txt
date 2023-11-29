@@ -152,7 +152,7 @@ CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/888
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-无线新闻台,https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.m3u8
+无线新闻台,https://epg.pw/stream/7673962ca22c9a4a0c3082d40a3374943c5d26c4113634b42306933c642ebc08.ctv
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
