@@ -317,3 +317,34 @@ UFC格斗,https://yang-1989.eu.org/live/huya/880223
 紫阳综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 FGTV 1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 佛坪电视台,http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+测试频道_673014,#genre#
+中天新聞,http://sc2022.stream-link.org/tv2306.php?id=t03
+華視新聞,http://sc2022.stream-link.org/tv2306.php?id=t04
+中視新聞,http://sc2022.stream-link.org/tv2306.php?id=t06
+民視新聞,http://sc2022.stream-link.org/tv2306.php?id=t07
+寰宇新聞,http://sc2022.stream-link.org/tv2306.php?id=t08
+三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t12
+TVBS HD,http://sc2022.stream-link.org/tv2306.php?id=t15
+中天亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
+民視HD,http://sc2022.stream-link.org/tv2306.php?id=t19
+民視台灣台,http://sc2022.stream-link.org/tv2306.php?id=t21
+NOW新闻台,http://sc2022.stream-link.org/tv2306.php?id=h08
+RTHK31,http://sc2022.stream-link.org/tv2306.php?id=h09
+RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h10
+TVBS新闻[1920x1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻[1920x1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+TVBS星河,http://r.jdshipin.com/sXuuD
+TVB华语,http://sc2022.stream-link.org/tv2306.php?id=c01
+TVB星河,http://sc2022.stream-link.org/tv2306.php?id=c02
+TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
+台视新闻[1920x1080],http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+三立新聞,http://sc2022.stream-link.org/tv2306.php?id=t10
+三立台灣,http://sc2022.stream-link.org/tv2306.php?id=t23
+三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
+三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
