@@ -161,6 +161,16 @@ TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+寰宇新闻,http://wspull.qiandaoapp.com:80/live/mNcEfPptCWch0zUaOyqBzCSrhqrVfd4W.flv
+东森新闻,http://wspull.qiandaoapp.com:80/live/yvU5R0oPe75brJf98vK8WtoYipNOJPNv.flv
+中天新闻,http://wspull.qiandaoapp.com:80/live/SWwLEYo0lPONte3VSzNFZRQRyvCzmuVb.flv
+now新闻,https://ali.hlspull.yximgs.com:443/live/dff1aabe16f89f0a825e532feecaaf09.flv
+美亚电影,https://ali.hlspull.yximgs.com:443/live/4fe8d57051af5b50f040c2cf565e92e7.flv
+now新闻,https://ali.hlspull.yximgs.com:443/live/4fe8d57051af5b50f040c2cf565e92e7.flv
+翡翠台,https://ali.hlspull.yximgs.com:443/live/5a06465142974d61073c063fd6f025e1.flv
+星影台,https://ali.hlspull.yximgs.com:443/live/018ba3cca330157de605b7a467aa69c5.flv
+爆谷台,https://ali.hlspull.yximgs.com:443/live/79440360e9966ce312d671ce6f95ecf4.flv
+功夫台,http://wspull.qiandaoapp.com:80/live/wZSKl67GO4LkVpOBrBylZsGnxrO26fL6.flv
 HK」J2,http://r.jdshipin.com/ndGgS
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
